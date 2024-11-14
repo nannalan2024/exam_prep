@@ -1,2 +1,3 @@
 # exam_prep
-Testing
+This is my first repository.
+I am looking foraward to learning more.
